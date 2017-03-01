@@ -52,8 +52,8 @@ remain that type.
 
 R on the other hand, attempts to accomodate the data as best it can with
 implicit conversions when needed. R has five basic classes of data:
-character (string), numeric, integer (whole number), complex (numbers),
-and logical (TRUE/FALSE)
+character (string), numeric, integer (whole number), complex (numbers
+with i), and logical (TRUE/FALSE)
 
 Stupid vector tricks
 --------------------
